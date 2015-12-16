@@ -5,6 +5,7 @@ Copy Twitter friends/favorites to another account
 % git clone https://github.com/sgk/twitter-move.git
 % cd twitter-move
 % . install.source
+% vi *.py
 % ./getfriends.py
 % ./addfriends.py
 % ./getfavs.py
