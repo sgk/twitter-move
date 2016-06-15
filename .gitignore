@@ -2,4 +2,7 @@ bin
 include
 lib
 local
+share
 twitter.db
+*.pyc
+*.swp
